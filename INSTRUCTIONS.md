@@ -1,6 +1,7 @@
 # Atrium — starter
 
-This is the codebase you have been given. It runs. Read the assignment brief before you start changing things.
+This is the codebase you have been given. It runs. Read the assignment brief in
+[`assignment/ASSIGNMENT.md`](assignment/ASSIGNMENT.md) before you start changing things.
 
 ---
 
