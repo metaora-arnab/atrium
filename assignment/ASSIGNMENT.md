@@ -233,6 +233,41 @@ something incomplete on Tuesday is the better choice.
 
 **A video walkthrough**, under 10 minutes — see Section 12.
 
+### How to submit
+
+Email **hr@metaora.ai** with the subject line:
+
+```
+Atrium submission — <your full name>
+```
+
+Use that subject exactly. It is how we find your submission, and a mail that does
+not match it can be missed.
+
+In the body, give us four things:
+
+1. **Your GitHub repository URL.** If it is private, add `metaora-arnab` as a
+   collaborator before you send, or we cannot read it
+2. **A Loom link to your video.** Record it on Loom and paste the share link — do
+   not attach a file, as a ten-minute recording will not survive email. Check the
+   link opens while you are signed out of Loom. If Loom will not give you a single
+   recording of the length you need, Google Drive or YouTube as unlisted is fine
+   instead; a working link matters more than which tool made it
+3. **Your AI transcripts.** A link or attached files, whichever is easier
+4. **Two or three lines** on what you did not finish and where you stopped
+
+Send questions to **arnab@metaora.ai**, but send the submission itself to
+**hr@metaora.ai** — they are different inboxes.
+
+**The timestamp of that email is your submission time.** Sending the repository
+link on time and the video an hour later is fine — tell us it is coming and we will
+wait for it.
+
+**We will reply to confirm we have it**, normally within a few hours and always by
+the morning after the deadline. If you have not heard from us, assume something went
+wrong in transit and mail us again rather than waiting. A submission we never
+received cannot be marked, and we would rather field a duplicate than lose your work.
+
 ---
 
 ## 12. Video walkthrough
