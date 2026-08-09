@@ -214,13 +214,12 @@ something incomplete on Tuesday is the better choice.
 
 **Your own GitHub repository.** Create it from the template at <https://github.com/metaora-arnab/atrium> using **Use this template → Create a new repository**, then build on it there. Make it public, or keep it private and add `metaora-arnab` as a collaborator. Send us the URL.
 
-**We read the commit history.** Small, honest, incremental commits tell us how you work. A single commit called "done" tells us nothing and we will assume the worst. Commit as you go, including the commits where something did not work.
 
 **AI is encouraged.** Use whatever tooling you like. Submit the raw transcripts alongside — we read those too, for how you decomposed the problem and what you did when the tool got something wrong. You remain responsible for every line, and you will be asked to defend it.
 
-**Setup instructions that actually work.** A marker with only Node and PostgreSQL installed will clone your repository, follow your README, and run it. If it does not come up, it is not marked. Test this on a machine other than the one you built on. Keep `.env.example` current with every variable you add, and commit no secrets.
+**Setup instructions that actually work.** A marker with only Node and PostgreSQL installed will clone your repository, follow your README, and run it. If it does not come up, it is not marked. Keep `.env.example` current with every variable you add, and commit no secrets.
 
-**A README**, four pages maximum:
+**A README**:
 
 - Setup and run instructions, verified from a clean clone
 - Defects you found in the schema, the indexing and the seed data, with root causes. Include `EXPLAIN (ANALYZE, BUFFERS)` before and after for anything you made faster
@@ -248,16 +247,14 @@ In the body, give us four things:
 
 1. **Your GitHub repository URL.** If it is private, add `metaora-arnab` as a
    collaborator before you send, or we cannot read it
-2. **A Loom link to your video.** Record it on Loom and paste the share link — do
+2. **A Loom/Drive link to your video.** Record it on Loom and paste the share link — do
    not attach a file, as a ten-minute recording will not survive email. Check the
    link opens while you are signed out of Loom. If Loom will not give you a single
    recording of the length you need, Google Drive or YouTube as unlisted is fine
    instead; a working link matters more than which tool made it
-3. **Your AI transcripts.** A link or attached files, whichever is easier
-4. **Two or three lines** on what you did not finish and where you stopped
+3. **Two or three lines** on what you did not finish and where you stopped
 
-Send questions to **arnab@metaora.ai**, but send the submission itself to
-**hr@metaora.ai** — they are different inboxes.
+Send questions to **hr@metaora.ai** if needed.
 
 **The timestamp of that email is your submission time.** Sending the repository
 link on time and the video an hour later is fine — tell us it is coming and we will
